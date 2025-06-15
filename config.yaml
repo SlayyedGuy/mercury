@@ -1,3 +1,2 @@
-camera_url: 0 # Default to webcam
-alert_email: "your_email@example.com"
-known_faces_path: "known_faces/"
+fast2sms_api_key: "YOUR_FAST2SMS_API_KEY"
+alert_phone: "91XXXXXXXXXX" # 10-digit mobile number (with country code 91)
